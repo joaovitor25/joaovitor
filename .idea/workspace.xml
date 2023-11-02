@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="977eba23-5321-4e3f-9eb8-149f92e0ac94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/jaopythonflix/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/jaopythonflix" beforeDir="false" afterPath="$PROJECT_DIR$/jaopythonflix" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jaopythonflix/pythonSite/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/jaopythonflix/pythonSite/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jaopythonflix/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jaopythonflix/pythonSite/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Joao Vitor\PycharmProjects\pythonProject\jaopythonflix" />
       <recent name="C:\Users\Joao Vitor\PycharmProjects\pythonProject\jaopythonflix\pythonSite" />
       <recent name="C:\Users\Joao Vitor\PycharmProjects\pythonProject\pythonSite" />
       <recent name="C:\Users\Joao Vitor\PycharmProjects\pythonProject" />
@@ -189,7 +191,8 @@
       <workItem from="1698679718510" duration="3129000" />
       <workItem from="1698685756621" duration="7991000" />
       <workItem from="1698874401780" duration="9105000" />
-      <workItem from="1698885023520" duration="839000" />
+      <workItem from="1698885023520" duration="4210000" />
+      <workItem from="1698930776576" duration="824000" />
     </task>
     <servers />
   </component>
